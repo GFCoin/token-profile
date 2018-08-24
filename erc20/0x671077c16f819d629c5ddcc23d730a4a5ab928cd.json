@@ -7,7 +7,7 @@
   },
   "email": "hi@gfcoin.io",
   "website": "https://www.gfcoin.io/",
-  "whitepaper": "https://www.gfcoin.io/GFC.pdf",
+  "whitepaper": "https://www.gfcoin.io/GFC_WHITEPAPERv1.0.pdf",
   "state": "NORMAL",
   "published_on": "2018-04-10",
   "initial_price":{
@@ -16,10 +16,13 @@
         "BTC":"0.00000325 BTC"
   },
   "links": {
-    "blog": "https://your-awesome-project.com/blog",
+    "blog": "",
     "twitter": "https://twitter.com/gold4coin",
     "telegram": "https://t.me/gold4coin",
     "github": "https:// github.com/GFCoin",
-    "facebook": "https:// www.facebook.com/gold4coin"
+    "facebook": "https:// www.facebook.com/gold4coin",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
   }
 }
